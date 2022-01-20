@@ -5,9 +5,10 @@ Load geography files to BigQuery
 ## Installation
 
 ```sh
-Create and activate a virtual environment (recommended)
+# Create and activate a virtual environment (recommended)
 virtualenv venv
 source venv/bin/activate
+
 # Install dependencies
 make install
 ```
